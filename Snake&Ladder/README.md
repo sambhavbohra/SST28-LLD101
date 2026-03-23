@@ -17,6 +17,7 @@ Use Java 8 or above to compile and run.
 On Windows (from the project directory):
 
 ```powershell
+cd src
 javac *.java
 java Main
 ```
