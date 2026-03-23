@@ -37,7 +37,11 @@ Running this starts `Main`, which initializes a `Game` on a 10x10 board with thr
 
 ## Class Diagram
 
-The following diagram includes classes/interfaces, key members, and their relationships.
+Core diagram image:
+
+![Snake and Ladder Class Diagram](snake%20%26%20ladder.png)
+
+The following Mermaid diagram includes classes/interfaces, key members, and their relationships.
 
 ```mermaid
 classDiagram

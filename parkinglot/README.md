@@ -104,6 +104,12 @@ ParkingLotFactory.create(...) builds and wires the full system:
 - src/com/parkinglot/InvalidTicketException.java
 - src/com/parkinglot/Main.java
 
+## Class Diagram
+
+![Parking Lot Class Diagram](parking-lot.png)
+
+The diagram highlights the main abstractions and entities used by the parking flow, including slot hierarchy, ticket model, vehicle model, and pricing strategy integration in ParkingLot.
+
 ## How to Run
 
 Use Java 8+.
